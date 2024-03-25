@@ -5,7 +5,7 @@ The command options are as follows with two optional redundant.
 
 !gamble - gambles the minimum amount
 
-!gamble - {your numerical only amount here}
+!gamble {your numerical only amount here} - Gambles your set amount.
 
 !gamble options - shows a message with these options and gambles the minimum amount
 
